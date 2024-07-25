@@ -1,7 +1,7 @@
-- 👋 Hi, I’m SpenceLabs 
-- 👀 I’m interested in HTML,CSS,PHP,JAVASCRIPT and MYSQL
+- 👋 Hi, It's SpenceLabs 
+- 👀 I’m interested and proficient in HTML,CSS,PHP,JAVASCRIPT,ANDROID STUDIO
 
-- 💞️ I’m looking to collaborate on some of my ongoing projects
+- 💞️ I’m looking to collaborate on some of my ongoing projects/open for hire
 - 📫 How to reach me : spencelabs@gmail.com/ +254741721636
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: "Did you know? The first-ever computer bug was an actual moth found in a computer in 1947!"
