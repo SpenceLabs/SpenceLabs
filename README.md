@@ -1,5 +1,5 @@
 - 👋 Hi, It's SpenceLabs 
-- 👀 I’m interested and proficient in HTML,CSS,PHP,JAVASCRIPT,ANDROID STUDIO
+- 👀 Proficient in HTML,CSS,PHP,JAVASCRIPT,ANDROID STUDIO and FLUTTER to build fascinating mobile apps and websites.
 
 - 💞️ I’m looking to collaborate on some of my ongoing projects/open for hire
 - 📫 How to reach me : spencelabs@gmail.com/ +254741721636
